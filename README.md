@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E1B4B,70:4C1D95,100:7C3AED&height=230&section=header&text=Rushitha%20Borra&fontSize=56&fontColor=E9D5FF&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Fine-tuning+LLMs+with+LoRA+and+Unsloth;Shipping+local+inference+with+GGUF+%2B+Ollama;Building+grounded+AI+that+cites+its+sources;B.Tech+CSE+(AI+%26+ML)+%40+ANITS" alt="Typing SVG"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E1B4B,70:4C1D95,100:7C3AED&height=230&section=header&text=Rushitha%20Borra&fontSize=56&fontColor=E9D5FF&fontAlignY=36&desc=AI%2FML%20%7C%20LLM%20Fine-Tuning%20%7C%20RAG&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="header"/>
 
 <br/>
 
@@ -10,10 +8,6 @@
 <img src="https://img.shields.io/badge/ANITS-Visakhapatnam-6D28D9?style=flat-square&labelColor=1E1B4B" alt="Institute"/>
 <img src="https://img.shields.io/badge/Class%20of-2028-8B5CF6?style=flat-square&labelColor=1E1B4B" alt="Graduation"/>
 <img src="https://img.shields.io/badge/Location-Visakhapatnam%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1E1B4B" alt="Location"/>
-
-<br/><br/>
-
-<a href="https://github.com/Rushithaborra"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -186,11 +180,11 @@ Design and build websites for local small businesses, using a reusable template 
 
 ---
 
-## Achievements
+## Hackathons
 
 <div align="center">
 
-| Recognition | Details |
+| Event | Team · Project |
 |:--|:--|
 | **Smart India Hackathon 2026** | Team ResQcrew · NCMRWF extreme weather anomaly tracking |
 | **Seva First Innovation Challenge 2026** | Team Crew · ANITS IIC |
@@ -204,30 +198,10 @@ Design and build websites for local small businesses, using a reusable template 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rushithaborra&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_color=2E1065&border_radius=10" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rushithaborra&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues,contribs&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_color=2E1065&border_radius=10" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushithaborra&layout=compact&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=2E1065&border_radius=10" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Rushithaborra&background=0D1117&border=2E1065&ring=8B5CF6&fire=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B949E&border_radius=10" alt="GitHub streak"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rushithaborra&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rushithaborra&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&area_color=7C3AED&hide_border=true&radius=10" alt="Activity graph"/>
 
 </div>
 
@@ -271,16 +245,6 @@ open_to:
   - Hackathon teams
   - Open-source contributions
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/Rushithaborra"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=E9D5FF"/></a>
-
-</div>
 
 ---
 
